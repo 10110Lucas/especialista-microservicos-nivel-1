@@ -3,4 +3,9 @@
 Aprendendo sobre a arquitetura de Micro Serviços da Algaworks.
 
 Tecnologias utilizadas:
-- Java com SpringBoot
+- Java
+- SpringBoot
+- Lombok
+- Spring Web
+- Spring JPA
+- H2 Database
